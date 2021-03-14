@@ -1,0 +1,11 @@
+body{
+    height: 95vh; /* viewport height */
+    width: 95;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    color: rgb(44, 139, 44)
+}
